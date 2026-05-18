@@ -1,0 +1,15 @@
+{
+  "name": "윈바신갈지역아동센터",
+  "short_name": "윈바신갈",
+  "description": "윈바신갈지역아동센터와 좋은가게로 연결되는 모바일 앱",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fff7ff",
+  "theme_color": "#16c4d0",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
